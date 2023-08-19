@@ -56,6 +56,6 @@ crear_copia_de_seguridad(ruta_origen, ruta_destino)
 
 
 # Enviar mensaje por WhatsApp
-numero_whatsapp = "+5521992479814"  # Reemplazar con el número de WhatsApp del destinatario
+numero_whatsapp = "+5511992769388"  # Reemplazar con el número de WhatsApp del destinatario
 mensaje_whatsapp = "Se ha realizado una copia de seguridad exitosamente."
 enviar_mensaje_whatsapp(numero_whatsapp, mensaje_whatsapp)

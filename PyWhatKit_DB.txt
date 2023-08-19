@@ -13,3 +13,8 @@ Time: 16:57
 Phone Number: +5521992479814
 Message: Um backup foi feito com sucesso.
 --------------------
+Date: 18/8/2023
+Time: 17:9
+Phone Number: +5511992769388
+Message: Se ha realizado una copia de seguridad exitosamente.
+--------------------
